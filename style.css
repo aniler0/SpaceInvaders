@@ -1,0 +1,22 @@
+.main {
+  width: 300px;
+  height: 300px;
+  border: solid black 1px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.main div {
+  width: 20px;
+  height: 20px;
+}
+.invader {
+  background-color: blueviolet;
+  border-radius: 10px;
+}
+
+.shooter {
+  background-color: black;
+}
+.shoot {
+  background-color: blue;
+}
